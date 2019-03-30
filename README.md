@@ -28,7 +28,7 @@ Some maps are given in the repository. For example :
 	./fdf test_maps/42.fdf
 
 
-![Image alt](https://github.com/vkozhemi/fdf/img/1.png)
-![Image alt](https://github.com/vkozhemi/fdf/img/2.png)
-![Image alt](https://github.com/vkozhemi/fdf/img/3.png)
-![Image alt](https://github.com/vkozhemi/fdf/img/4.png)
+![Image alt](https://github.com/vkozhemi/fdf/raw/master/img/1.png)
+![Image alt](https://github.com/vkozhemi/fdf/raw/master/img/2.png)
+![Image alt](https://github.com/vkozhemi/fdf/raw/master/img/3.png)
+![Image alt](https://github.com/vkozhemi/fdf/raw/master/img/4.png)

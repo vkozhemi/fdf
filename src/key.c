@@ -56,9 +56,9 @@ void	scale_move(int key, t_fdf *win)
 
 	p = win->dots;
 	if (key == 78 && p->k > 4)
-		p->k = p->k - 4;
+		p->k = p->k / 1.1;
 	else if (key == 69)
-		p->k = p->k + 4;
+		p->k = p->k * 1.1;
 	else if (key == 123)
 		win->x -= 7;
 	else if (key == 126)

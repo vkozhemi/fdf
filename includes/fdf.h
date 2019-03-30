@@ -65,6 +65,7 @@ typedef struct	s_fdf
 	void			*win_ptr;
 	double			x;
 	double			y;
+	double			z;
 	struct s_fdf	*next;
 	struct s_dots	*dots;
 	double			a;

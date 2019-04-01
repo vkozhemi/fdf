@@ -35,4 +35,4 @@ Some maps are given in the repository. For example :
 ![Image alt](https://github.com/vkozhemi/fdf/raw/master/img/2.png)
 ![Image alt](https://github.com/vkozhemi/fdf/raw/master/img/3.png)
 ![Image alt](https://github.com/vkozhemi/fdf/raw/master/img/4.png)
-![Image alt](https://github.com/vkozhemi/fdf/raw/master/img/fdf5.gif)
+![Image alt](https://github.com/vkozhemi/fdf/raw/master/img/5.gif)
